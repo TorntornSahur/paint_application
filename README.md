@@ -15,7 +15,7 @@
 ### 3. Filled shapes
 - This function can fill the inside of the shapes.
 
-<img width="258" height="128" alt="fill" src="https://github.com/user-attachments/assets/b498307c-a032-4174-a908-4a10a6aa4b04" />
+<img width="258" height="128" alt="fill" src="https://github.com/user-attachments/assets/a9f0497a-2425-4f92-9c5f-ad9d5c062739" />
 
 ### 4. Extra shape tool
 - I added more shapes for the users to have more options.
